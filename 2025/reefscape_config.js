@@ -1,8 +1,8 @@
 var config_data = `
 {
   "dataFormat": "tsv",
-  "title": "Scouting PASS 2025",
-  "page_title": "REEFSCAPE",
+  "title": "238: Scouting PASS 2025",
+  "page_title": "REEFSCAPE - TEST",
   "checkboxAs": "10",
   "prematch": [
     { "name": "Scouter Initials",
@@ -15,7 +15,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2025ilpe",
+      "defaultValue": "2025mefal",
       "required": "true"
     },
     { "name": "Match Level",
